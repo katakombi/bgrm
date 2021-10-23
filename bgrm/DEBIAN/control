@@ -7,4 +7,7 @@ Essential: no
 Installed-Size: 140
 Maintainer: dylantdmt@gmail.com
 Description: A utility for removing backgrounds from a webcam and returning a virtual webcam for use in applications like Teams, OBS, etc
+Depends: python3 (>=3.9.2-3)
+Depends: python3-pip
+Depends: v4l2loopback-dkms
 
