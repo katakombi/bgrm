@@ -1,0 +1,10 @@
+Package: bgrm
+Version: 21.1023.1350
+Section: video
+Priority: optional
+Architecture: all
+Essential: no
+Installed-Size: 140
+Maintainer: dylantdmt@gmail.com
+Description: A utility for removing backgrounds from a webcam and returning a virtual webcam for use in applications like Teams, OBS, etc
+
